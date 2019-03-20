@@ -1,2 +1,0 @@
-# JadenUpolePortfolio
-Portfolio Website
